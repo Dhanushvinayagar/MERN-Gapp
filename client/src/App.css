@@ -1,0 +1,25 @@
+.container{
+  text-align: center;
+  
+}
+.question{
+  font-size: medium;
+  color: yellowgreen;
+  text-align: center;
+}
+.options{
+  padding: .5%;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: 1px solid rgb(165, 164, 164);
+  border-radius: 4px;
+}
+
+.container-options :hover{
+  background-color: rgb(192, 192, 192);
+  cursor: pointer;
+}
+
+button{
+  cursor: pointer;
+}

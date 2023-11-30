@@ -1,0 +1,53 @@
+[
+    {
+        "question":"Which one of the follwing is JS framework",
+        "options":[
+            "Angular",
+            "Spring",
+            "Django",
+            "Hibernate"
+        ],
+        "answer":1
+    },
+    {
+        "question":"Which one of the follwing is Python framework",
+        "options":[
+            "React",
+            "Spring",
+            "Django",
+            "Hibernate"
+        ],
+        "answer":3
+    },
+    {
+        "question":"Which one of the follwing is Java framework",
+        "options":[
+            "React",
+            "Spring",
+            "Django",
+            "Hibernate"
+        ],
+        "answer":2
+    },
+    {
+
+        "question":"Which one of the follwing is Java ORM framework",
+        "options":[
+            "React",
+            "Spring",
+            "Django",
+            "Hibernate"
+        ],
+        "answer":4
+    },
+    {
+        "question":"Which one of the follwing is a library",
+        "options":[
+            "React",
+            "Spring",
+            "Django",
+            "Hibernate"
+        ],
+        "answer":1
+    }
+]
